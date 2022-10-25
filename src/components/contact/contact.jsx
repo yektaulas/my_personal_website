@@ -1,7 +1,6 @@
 import "./contact.css";
 import {AiOutlineLinkedin, AiOutlineMail} from "react-icons/ai";
 import {AiOutlineWhatsApp} from "react-icons/ai";
-import {AiOutlineInstagram} from "react-icons/ai";
 
 function Contact() {
     return (
@@ -30,10 +29,12 @@ function Contact() {
                     </h2>
                 </a>
 
-                <a href="#" className="contact Mail">
+                <a href="mailto:yekta.ulas97@gmail.com" className="contact Mail">
                     <AiOutlineMail className="icon"/>
-                    <h2>
-                        E-mail <span>"yekta.ulas97@gmail.com"</span>
+                    <h2>E-mail
+                        <span>
+                           yekta.ulas97@gmail.com
+                        </span>
                     </h2>
                 </a>
             </div>

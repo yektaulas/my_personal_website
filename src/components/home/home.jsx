@@ -31,12 +31,12 @@ function Home() {
             <h2>
                 <span>About Me</span> <br/>
                 <p>
-                    I am Yekta Ulaş KESİK, a 25 years old Software Engineer from İzmir. I have a special
-                    interest computer sciences and programming through my education. I follow all the sector news and
-                    developments in my field. I participated in courses, factory&plant tours, and some
-                    electronic&programing projects to improve myself. Previously I ran my own business, therefore, I
-                    have experienced customer relations and purchasing. I keep working in Mepsan as Software Engineer
+                    I am Yekta Ulaş KESİK, a 25 years old Software Engineer from İzmir. As a Software Engineer; With a
+                    passion for both personal growth and software development, I keep learning new languages while
+                    sharpening existing skills. Ready to apply my passion for coding to a talented engineering team to
+                    develop quality solutions. I keep working on payment systems.
                 </p>
+
             </h2>
 
             <Buttons/>

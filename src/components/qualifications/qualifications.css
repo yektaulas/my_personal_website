@@ -19,7 +19,8 @@
 .qualifications-container .qualification {
     position: relative;
     height: 550px;
-    min-width: 40%;
+    /*min-width: 40%;*/
+    width: 300px;
     background-color: rgb(9, 6, 31);
     border-radius: 20px;
     margin: 0 20px 0 0;
@@ -45,42 +46,42 @@
 }
 
 .qualifications-container .qualification .content.html {
-    background: rgba(255, 255, 255, 0.103) url(../props/html.png) center;
+    /*background: rgba(255, 255, 255, 0.103) url(../props/html.png) center;*/
     background-size: 66px;
 }
 
 .qualifications-container .qualification .content.css {
-    background: rgba(255, 255, 255, 0.103) url(../props/css.png) center;
+    /*background: rgba(255, 255, 255, 0.103) url(../props/css.png) center;*/
     background-size: 66px;
 }
 
 .qualifications-container .qualification .content.javascript {
-    background: rgba(255, 255, 255, 0.103) url(../props/js.jpg) center;
+    /*background: rgba(255, 255, 255, 0.103) url(../props/js.jpg) center;*/
     background-size: 90px;
 }
 
 .qualifications-container .qualification .content.bootstrap {
-    background: rgba(255, 255, 255, 0.103) url(../props/bootstrap.png) center;
+    /*background: rgba(255, 255, 255, 0.103) url(../props/bootstrap.png) center;*/
     background-size: 66px;
 }
 
 .qualifications-container .qualification .content.react {
-    background: rgba(255, 255, 255, 0.103) url(../props/react.png) center;
+    /*background: rgba(255, 255, 255, 0.103) url(../props/react.png) center;*/
     background-size: 66px;
 }
 
 .qualifications-container .qualification .content.c-plus-plus {
-    background: rgba(255, 255, 255, 0.103) url(../props/django.jpg) center;
+    /*background: rgba(255, 255, 255, 0.103) url(../props/django.jpg) center;*/
     background-size: 66px;
 }
 
 .qualifications-container .qualification .content.c-sharp {
-    background: rgba(255, 255, 255, 0.103) url(../props/flask.png) center;
+    /*background: rgba(255, 255, 255, 0.103) url(../props/flask.png) center;*/
     background-size: 66px;
 }
 
 .qualifications-container .qualification .content.kotlin {
-    background: rgba(255, 255, 255, 0.103) url(../props/python.png) center;
+    /*background: rgba(255, 255, 255, 0.103) url(../props/python.png) center;*/
     background-size: 66px;
 }
 
