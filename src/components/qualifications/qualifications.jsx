@@ -3,7 +3,6 @@ import "./qualifications.css";
 const Qualifications = () => {
     return (
         <div>
-
             <span className="quali-text">My Experience as a Developer</span>
             <div className="qualifications-container">
                 <div className="qualification">
@@ -17,10 +16,10 @@ const Qualifications = () => {
                         </h4>
                         <br/>
                         <p style={{textAlign: "center"}}>
-                            As a part of team who has develop next generation cash register for fuel stations;
-                            I developed all administrative screens for cash register's maintenance. Those pages has
-                            dynamic
-                            tables, data manipulations and role based user authentication systems.
+                            I am Yekta Ulaş KESİK, a 25 years old Software Engineer. As a Software Engineer; With a
+                            passion for both personal growth and software development, I keep learning new languages
+                            while sharpening existing skills. Ready to apply my passion for coding to a talented
+                            engineering team to develop quality solutions. I keep working on payment systems in İzmir.
                         </p>
                     </div>
                     <h1>MEPSAN</h1>
@@ -36,8 +35,9 @@ const Qualifications = () => {
                         </h4>
                         <br/>
                         <p style={{textAlign: "center"}}>
-                            I was responsible for maintenance and supervision of high power transformers of large scale
-                            industry plants, monitoring and regulation of reactive power consumption.
+                            I was responsible for the maintenance and supervision of high-power transformers of
+                            large-scale industrial plants, monitoring, and regulation of reactive power consumption. And
+                            I marketed to customers of all of these operations as a sales engineer.
                         </p>
                     </div>
                     <h1>ELKOM</h1>
@@ -53,7 +53,8 @@ const Qualifications = () => {
                         </h4>
                         <br/>
                         <p style={{textAlign: "center"}}>
-                            As a intern Engineer; person in charge for maintenance, repair and revision works and l coordinator between
+                            As a intern Engineer; person in charge for maintenance, repair and revision works and l
+                            coordinator between
                             departments.Technical items purchasing intern.
                         </p>
                     </div>
@@ -70,7 +71,8 @@ const Qualifications = () => {
                         </h4>
                         <br/>
                         <p style={{textAlign: "center"}}>
-                            With preparatory class
+                            With preparatory class; I get a good command of English. Throughout my education, I
+                            constantly improved myself and bring friends from different cultures and sectors.
                         </p>
                     </div>
                     <h1>CELAL BAYAR ÜNİVERSİTESİ</h1>

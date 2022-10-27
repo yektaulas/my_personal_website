@@ -34,7 +34,7 @@
 }
 
 .home-container .logo .hover-show.active {
-  animation: showspin 8s linear 1s infinite;
+  animation: showspin 25s linear 1s infinite;
 }
 
 @keyframes showspin {
