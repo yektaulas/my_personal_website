@@ -16,10 +16,9 @@ const Qualifications = () => {
                         </h4>
                         <br/>
                         <p style={{textAlign: "center"}}>
-                            I am Yekta Ulaş KESİK, a 25 years old Software Engineer. As a Software Engineer; With a
-                            passion for both personal growth and software development, I keep learning new languages
-                            while sharpening existing skills. Ready to apply my passion for coding to a talented
-                            engineering team to develop quality solutions. I keep working on payment systems in İzmir.
+                            As a part of team who has develop next generation cash register for fuel stations; I
+                            developed all administrative screens for cash register's maintenance. Those pages has
+                            dynamic tables, data manipulations and role based user authentication systems.
                         </p>
                     </div>
                     <h1>MEPSAN</h1>
