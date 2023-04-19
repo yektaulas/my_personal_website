@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/my_personal_website/static/css/main.052681c3.css",
+    "main.js": "/my_personal_website/static/js/main.b98c7536.js",
+    "static/media/img2.jpg": "/my_personal_website/static/media/img2.38b3fff71a6ed4dccdf1.jpg",
+    "static/media/ogulcan.jpeg": "/my_personal_website/static/media/ogulcan.45789f485c2977f19310.jpeg",
+    "static/media/python.png": "/my_personal_website/static/media/python.6bca8e4e48443621683b.png",
+    "static/media/Ferhat.jpeg": "/my_personal_website/static/media/Ferhat.dd675c6cd543d5af083a.jpeg",
+    "static/media/flask.png": "/my_personal_website/static/media/flask.5c50c9b881f538b836fb.png",
+    "static/media/react.png": "/my_personal_website/static/media/react.23fd0138effeef952d73.png",
+    "static/media/django.jpg": "/my_personal_website/static/media/django.f4299fd87b6474aeb9ce.jpg",
+    "static/media/bootstrap.png": "/my_personal_website/static/media/bootstrap.323492a55f3421bf0688.png",
+    "static/media/html.png": "/my_personal_website/static/media/html.fd1fe32f1127d850fa39.png",
+    "static/media/js.jpg": "/my_personal_website/static/media/js.d37684aea3d32640b359.jpg",
+    "static/media/css.png": "/my_personal_website/static/media/css.cbea6150e2917bd6f0f3.png",
+    "index.html": "/my_personal_website/index.html",
+    "main.052681c3.css.map": "/my_personal_website/static/css/main.052681c3.css.map",
+    "main.b98c7536.js.map": "/my_personal_website/static/js/main.b98c7536.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.052681c3.css",
+    "static/js/main.b98c7536.js"
+  ]
+}
