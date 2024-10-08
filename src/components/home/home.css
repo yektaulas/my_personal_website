@@ -59,34 +59,34 @@
 .home-container .logo .hover-show.active .circle {
   opacity: 1;
 }
-
 .home-container .logo .hover-show.active .circle:nth-child(1) {
-  background: url(../props/html.png);
+  position: absolute;
+  transform: translateX(150%) translateY(150%);
+  background: url(../props/next.png);
   background-size: cover;
   background-position: center;
-  position: absolute;
-  transform: translateY(-210%);
 }
+
 .home-container .logo .hover-show.active .circle:nth-child(2) {
   position: absolute;
   transform: translateX(150%) translateY(-150%);
-  background: url(../props/css.png);
+  background: url(../props/tailwind.png);
   background-size: cover;
   background-position: center;
 }
 .home-container .logo .hover-show.active .circle:nth-child(3) {
   position: absolute;
   transform: translateX(210%);
-  background: url(../props/js.jpg);
+  background: url(../props/javascript.png);
   background-size: cover;
   background-position: center;
 }
 .home-container .logo .hover-show.active .circle:nth-child(4) {
-  position: absolute;
-  transform: translateX(150%) translateY(150%);
-  background: url(../props/bootstrap.png);
+  background: url(../props/typescript.png);
   background-size: cover;
   background-position: center;
+  position: absolute;
+  transform: translateY(-210%);
 }
 .home-container .logo .hover-show.active .circle:nth-child(5) {
   position: absolute;
@@ -373,7 +373,7 @@
   .home-container {
     position: relative;
     min-height: 100vh;
-    padding: 150px 10px 0;
+    padding: 150px 24px 0;
     margin-top: 20px;
     display: flex;
     flex-direction: column;

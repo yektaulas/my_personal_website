@@ -19,10 +19,6 @@ function Footer() {
                 <a href="https://www.instagram.com/yektaulas/">
                     <BsInstagram className="social"/>
                 </a>
-                <a href="https://www.facebook.com/ulas.kesik.5">
-                    {" "}
-                    <FaFacebookF className="social"/>
-                </a>
                 <a href="https://github.com/yektaulas">
                     <TiSocialGithub className="social"/>
                 </a>

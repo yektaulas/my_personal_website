@@ -146,7 +146,7 @@
   }
 
   .button-container .btn {
-    height: 75px;
+    height: 48px;
     width: 150px;
     display: flex;
     justify-content: center;
@@ -156,6 +156,7 @@
     transition: 0.2s ease;
     overflow: hidden;
     backdrop-filter: blur(20px);
+    border: 20px;
   }
 }
 
@@ -171,7 +172,7 @@
   }
 
   .button-container .btn {
-    height: 75px;
+    height: 48px;
     width: 150px;
     display: flex;
     justify-content: center;
@@ -181,5 +182,6 @@
     transition: 0.2s ease;
     overflow: hidden;
     backdrop-filter: blur(20px);
+    border-radius: 20px;
   }
 }
